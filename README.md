@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=안녕하세요!+저는+홍성제입니다.;서원대+컴공+1학년+👨‍💻;C+언어+Python+열공중🔥" />
+</p>
 
 <p align="center">
   저는 서원대 컴공과 1학년 홍성제입니다.<br>
