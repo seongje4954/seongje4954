@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Hello!
-##seongjehong
-##computer
+## Hello!
+## seongjehong
+## computer
