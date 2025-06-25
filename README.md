@@ -13,15 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=안녕하세요!+홍성제입니다.;서원대+컴공과+1학년이에요!;C언어랑+파이썬+공부중입니다+🔥" alt="Typing SVG" />
-</p>
 
-<h3 align="center">👋 안녕하세요!<br>서원대 컴공과 1학년 홍성제입니다.</h3>
+<h3 align="center">👋 안녕하세요!<br>저는 서원대 컴공과 1학년 홍성제입니다.</h3>
 
 <p align="center">
   요즘은 <strong>C언어</strong>랑 <strong>파이썬</strong>을 배우고 있어요!<br>
-  많이 부족하지만 하나씩 재밌게 배워가는 중입니다 😊
+  많이 부족하지만 하나씩 재밌게 배워가는 중입니다 
 </p>
 
 깃허브 상태 ![seongje's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongje4954&show_icons=true&theme=radical)
