@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/👋-안녕하세요!-brightgreen?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=안녕하세요!+👋;" alt="Typing SVG" />
 </p>
 
-<h1 align="center">환영합니다! 👋</h1>
+<h1 align="center">👋 안녕하세요! 개발자 [YOUR_NAME]입니다 :)</h1>
+
 
 <p align="center">
   저는 서원대 컴공과 1학년 홍성제입니다.<br>
