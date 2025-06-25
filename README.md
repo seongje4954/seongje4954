@@ -21,4 +21,6 @@ Here are some ideas to get you started:
   많이 부족하지만 하나씩 재밌게 배워가는 중입니다 
 </p>
 
-깃허브 상태입니다\n ![seongje's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongje4954&show_icons=true&theme=radical)
+깃허브 상태입니다
+
+![seongje's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongje4954&show_icons=true&theme=radical)
