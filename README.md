@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <p align="center">
   저는 서원대 컴공과 1학년 홍성제입니다.<br>
 
-[![seongje's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![seongje's GitHub stats](https://github-readme-stats.vercel.app/apiseongje4954=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
